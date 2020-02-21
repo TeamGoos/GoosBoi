@@ -7,7 +7,7 @@ client.once('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'G!help') {
-        // send back "Pong." to the channel the message was sent in
+       //send back "This feature is not currently out yet."
         message.channel.send('This feature is not currently out yet.');
     }
 });
