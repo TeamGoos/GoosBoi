@@ -1,0 +1,14 @@
+{
+  "name": "np",
+  "version": "1.0.0",
+  "description": "hoi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toes,Aflac",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
